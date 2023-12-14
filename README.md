@@ -7,7 +7,8 @@ A Python script designed to convert MP3 files to WAV format, suitable for use as
 
 ### Prerequisites
 - Python 3.x
-- pip (Python package manager)
+- pip
+- ffmpeg or libav
 
 ### Installation
 
