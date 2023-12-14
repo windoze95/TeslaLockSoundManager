@@ -1,0 +1,24 @@
+# Virtual environment
+teslamanager_venv/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Directories created by the script
+archive/
+payload/
+too_big/
+tmp/
+
+# Input files
+mp3_in/*
+# Keep this file to keep the directory
+!mp3_in/.gitkeep
+
+# OS generated files
+.DS_Store # For macOS
+Thumbs.db # For Windows
+
+# Python artifacts
+*.pyc
